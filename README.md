@@ -1,11 +1,12 @@
-# Desafio RPG - AppleDeveloperAcademy (Workshop)
+# Challenge RPG - AppleDeveloperAcademy (Workshop)
 
 ## Sistema de Missões e Ranks!
 
-### Você é um humano que saiu de sua vila, e foi até o Reino Arcano, na Capital Real. Seu sonho é se tonar um aventureiro.
+### Você é um humano que saiu de sua vila, e foi até o Reino Tempest, na Capital Real. Seu sonho é se tornar um aventureiro.
 
-**O codigo funciona da seguinte maneira:**
-
+**O código funciona da seguinte maneira:**
+<br>
+É um sistema de Missões e Ranks que você escolhe as missões e ganha proficiência para subir seu RANK.
 
 Ao chegar na guilda da Capital. Você descobre que existem 6 RANKS **(S+, A, B, C, D e F)**. Você inicia no **rank F**!
 
@@ -39,12 +40,9 @@ Para subir de RANK você precisa atingir os seguintes objetivos:
 <br>
 **RANK S+ = 2100 de Proficiência.**
 
-Ao atingir o RANK S+ o jogo acaba.
-
 Se quiser desistir, digite -1
 
-Você completou: Derrotar o Chefe da Dungeon
-Ganhou 400 de Proficiência!
-
-PARABÉNS, VITOR!
-Você atingiu o RANK MÁXIMO (S+).
+Ao atingir o RANK S+ o jogo acaba transmintido a mensagem:
+<br>
+*PARABÉNS, "Aventureiro"!*
+*Você atingiu o RANK MÁXIMO (S+).*
